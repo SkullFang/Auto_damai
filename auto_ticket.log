@@ -1,0 +1,11 @@
+2020-02-09 14:52:11,726 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:412] - INFO: hello
+2020-02-09 14:52:20,694 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:63] - INFO: ###请点击登录###
+2020-02-09 14:52:20,697 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:66] - INFO: ###请扫码登录###
+2020-02-09 14:52:33,512 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:70] - INFO: ###Cookie保存成功###
+2020-02-09 14:52:33,583 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:103] - INFO: ###打开浏览器，进入大麦网###
+2020-02-09 14:52:39,106 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:87] - INFO: ###载入Cookie###
+2020-02-09 14:52:39,888 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:132] - INFO: ###登录成功###
+2020-02-09 14:52:39,888 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:142] - INFO: ###开始进行日期及票价选择###
+2020-02-09 14:52:39,956 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:165] - INFO: 可选场次数量为：3
+2020-02-09 14:52:40,002 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:183] - INFO: 可选票档数量为：6
+2020-02-09 14:52:40,136 - /Users/zhangyan/workspace/deploys/autoticket/Autoticket.py[line:234] - WARNING: ###抢票失败，请手动提交缺货登记###
